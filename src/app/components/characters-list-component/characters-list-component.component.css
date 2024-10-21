@@ -1,0 +1,19 @@
+.container-fluid {
+    padding: 20px;
+  }
+  
+  .card {
+    border-radius: 15px;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-body {
+    text-align: center;
+  }
+  
+  
